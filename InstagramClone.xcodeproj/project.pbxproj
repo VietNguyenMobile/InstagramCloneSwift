@@ -32,6 +32,7 @@
 		FAE168C0295C599300CA45C2 /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE168BF295C599300CA45C2 /* DatabaseManager.swift */; };
 		FAE168C2295C5AC300CA45C2 /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE168C1295C5AC300CA45C2 /* AuthManager.swift */; };
 		FAE168C4295C5B2700CA45C2 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE168C3295C5B2700CA45C2 /* StorageManager.swift */; };
+		FAE168C6295D74D300CA45C2 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE168C5295D74D300CA45C2 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		FAE168BF295C599300CA45C2 /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
 		FAE168C1295C5AC300CA45C2 /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
 		FAE168C3295C5B2700CA45C2 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
+		FAE168C5295D74D300CA45C2 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				FAE168BF295C599300CA45C2 /* DatabaseManager.swift */,
 				FAE168C1295C5AC300CA45C2 /* AuthManager.swift */,
 				FAE168C3295C5B2700CA45C2 /* StorageManager.swift */,
+				FAE168C5295D74D300CA45C2 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -346,6 +349,7 @@
 				FABE1C15295C147E0040CAA2 /* HomeViewController.swift in Sources */,
 				FABE1C47295C1C730040CAA2 /* SearchResultViewController.swift in Sources */,
 				FABE1C39295C1AD10040CAA2 /* LoginViewController.swift in Sources */,
+				FAE168C6295D74D300CA45C2 /* Extensions.swift in Sources */,
 				FABE1C45295C1C5D0040CAA2 /* SearchViewController.swift in Sources */,
 				FABE1C34295C19C40040CAA2 /* ProfileViewController.swift in Sources */,
 				FAE168C2295C5AC300CA45C2 /* AuthManager.swift in Sources */,
